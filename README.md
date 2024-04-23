@@ -1,2 +1,2 @@
 # procid
-Provides a Windows-compatible implemeentation of the process-related functions available in Unix-like systems.
+Provides a Windows-compatible implementation of the process-related functions available in Unix-like systems.
