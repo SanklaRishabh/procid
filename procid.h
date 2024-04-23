@@ -9,4 +9,6 @@
 
 #include <windows.h>
 
+DWORD getppid();
+
 #endif // _PROCID_H
